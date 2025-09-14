@@ -1,7 +1,10 @@
 "use strict";
 
+console.log("✅ Priyanshu FCA is now powering GoatBot!");
+
 const utils = require("./utils");
 const log = require("npmlog");
+
 
 let checkVerified = null;
 
